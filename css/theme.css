@@ -2221,6 +2221,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
     padding: 0 0.2em;
     border-radius: 8px; }
 
+.reveal .img-medium {
+  max-height: 250px; }
+
 .reveal h1 .fa {
   font-weight: normal; }
 
@@ -2310,6 +2313,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal .center {
   display: inline-block; }
+
+.reveal .medium {
+  max-height: 20%; }
 
 .reveal [data-background-image] .shade {
   background-color: rgba(0, 0, 0, 0.8);
